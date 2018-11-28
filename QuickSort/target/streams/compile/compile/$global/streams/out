@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/kashyap/Cprog/ScalaShit/SparkProjects/QuickSort/src/main/scala/QuickSort.scala:4:78: type List is not a member of package scala.collection.mutable[0m
+[0m[[0m[31merror[0m] [0m[0m	def sort(arr: scala.collection.mutable.List[Int]): scala.collection.mutable.List[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kashyap/Cprog/ScalaShit/SparkProjects/QuickSort/src/main/scala/QuickSort.scala:4:41: type List is not a member of package scala.collection.mutable[0m
+[0m[[0m[31merror[0m] [0m[0m	def sort(arr: scala.collection.mutable.List[Int]): scala.collection.mutable.List[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m	                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

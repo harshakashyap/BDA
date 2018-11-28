@@ -1,0 +1,11 @@
+https://data-flair.training/blogs/sqoop-architecture-and-working/
+https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index
+https://data-flair.training/blogs/apache-sqoop-vs-flume/
+https://en.wikipedia.org/wiki/Apache_ZooKeeper
+https://hortonworks.com/apache/storm/
+https://www.dezyre.com/article/spark-vs-hadoop-vs-storm/145
+https://en.wikipedia.org/wiki/Apache_HBase
+http://lucene.apache.org/solr/
+https://cwiki.apache.org/confluence/display/Hive/Home
+https://en.wikipedia.org/wiki/Apache_Hive
+https://en.wikipedia.org/wiki/Apache_Pig

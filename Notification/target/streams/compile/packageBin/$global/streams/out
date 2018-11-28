@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/notification_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$Email$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$Email$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$Notification$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$Notification$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$Email$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$Email$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$SMS$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$SMS$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NotifyPeople$SMS$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/target/scala-2.12/classes/NotifyPeople$SMS$3.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/sparkwindowedstreaming_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nmit/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com/nmit/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nmit/spark/sparkwindowedstreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com/nmit/spark/sparkwindowedstreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nmit/spark/sparkwindowedstreaming/sparkWindowedStreaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com/nmit/spark/sparkwindowedstreaming/sparkWindowedStreaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nmit/spark/sparkwindowedstreaming/sparkWindowedStreaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com/nmit/spark/sparkwindowedstreaming/sparkWindowedStreaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/nmit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kashyap/Cprog/ScalaShit/SparkProjects/SparkWindowedStreaming/target/scala-2.11/classes/com/nmit[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/src/main/scala/scalaMsgNotifications_script.scala:21:37: not found: type Notification[0m
+[0m[[0m[31merror[0m] [0m[0m	def showNotification(notification: Notification): String = {[0m
+[0m[[0m[31merror[0m] [0m[0m	                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/src/main/scala/scalaMsgNotifications_script.scala:23:8: not found: value Email[0m
+[0m[[0m[31merror[0m] [0m[0m		case Email(emailAddr, subject, _) =>[0m
+[0m[[0m[31merror[0m] [0m[0m		     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kashyap/Cprog/ScalaShit/SparkProjects/Notification/src/main/scala/scalaMsgNotifications_script.scala:25:8: not found: value SMS[0m
+[0m[[0m[31merror[0m] [0m[0m		case SMS(number, message) =>[0m
+[0m[[0m[31merror[0m] [0m[0m		     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
